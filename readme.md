@@ -8,7 +8,7 @@ Anotações realizadas ao longo do bootcamp considerando assuntos que já conhe�
 
 ### Criar projeto
 
-Primeiro definir o worskapce no STS. Dentro do workspace criar a pasta do projeto e descompactar o arquivo gerado pelo (https://start.spring.io/)[spring initializr]. As configurações deste projeto seguem abaixo:
+Primeiro definir o worskapce no STS. Dentro do workspace criar a pasta do projeto e descompactar o arquivo gerado pelo [spring initializr](https://start.spring.io/). As configurações deste projeto seguem abaixo:
 
  - Project: Maven Project
  - Spring Boot: 2.3.13
